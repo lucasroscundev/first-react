@@ -38,5 +38,5 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/deploym
 # first-react
 First Deploy of a React App, 
 using: Next.JS
-configs and features: AppRouter, generateBuildId, reactStrictMode
+configs and features: AppRouter, reactStrictMode
 
